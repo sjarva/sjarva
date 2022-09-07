@@ -14,7 +14,7 @@ I write a [blog at Dev.to](https://dev.to/sjarva).
 
 I do a lot of handicrafts. Mostly knitting and sewing, but I dabble also in embroidery, weaving and felting.
 
-Talking of felting: I don't have any pets, expect for this felted Octocat.
+Talking of felting: I don't have any pets, except for this felted Octocat.
 
 <img src="https://user-images.githubusercontent.com/1133238/137379787-8436741c-d0ed-44fb-a061-80b0149df7b2.jpg" width="330" />
 
